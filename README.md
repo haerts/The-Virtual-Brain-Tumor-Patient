@@ -9,7 +9,7 @@ Code used for postprocessing analyses in manuscript "Modeling brain dynamics in 
 > PSE.m
 
 (3) Sanity checks model parameters:
-> PSE_SanChecks.m
+> PSE_SanChecks.m: basic checks 
 > SanChecks_Ji.R: evaluate relationship between Ji, in-strength and ROI size
 > ModelFit_SanChecks.R: evaluate model fit
 
